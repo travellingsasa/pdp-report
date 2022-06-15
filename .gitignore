@@ -4,16 +4,17 @@ __pycache__/
 *$py.class
 
 # exclude data
-*.csv
-*.xls
-*.xlsx
-*.pdf
-*.png
-*.img
-*.peg
+**.csv
+**.xls
+**.xlsx
+**.pdf
+**.png
+**.img
+**.peg
+data/
 
 #
-*.DS-Store
+*.DS_Store
 
 # C extensions
 *.so
